@@ -60,7 +60,7 @@ The system records votes using **EEPROM via I2C communication** and displays res
 
 ## Author
 
-Mohd. Jawwad Rizvi  
+Udbhav Singh 
 B.Tech – Electronics and Communication Engineering  
 LNMIIT Jaipur
 
